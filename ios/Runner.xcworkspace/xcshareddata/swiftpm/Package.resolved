@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pipable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ColdGrub1384/Pipable",
+      "state" : {
+        "revision" : "657043e43cec85552590ad10cca4fd2b2bebcc86",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
